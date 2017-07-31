@@ -63,5 +63,3 @@ initialCommands in console := """
                                 |""".stripMargin
 
 cancelable := true
-
-sublimeTransitive := true

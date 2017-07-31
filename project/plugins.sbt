@@ -1,12 +1,3 @@
-// See https://github.com/mpeltonen/sbt-idea
-addSbtPlugin("com.github.mpeltonen" % "sbt-idea" % "1.6.0")
-
-// See https://github.com/typesafehub/sbteclipse
-addSbtPlugin("com.typesafe.sbteclipse" % "sbteclipse-plugin" % "5.1.0")
-
-// See https://github.com/orrsella/sbt-sublime
-addSbtPlugin("com.orrsella" % "sbt-sublime" % "1.1.1")
-
 // See https://github.com/jrudolph/sbt-dependency-graph
 addSbtPlugin("net.virtual-void" % "sbt-dependency-graph" % "0.8.2")
 
